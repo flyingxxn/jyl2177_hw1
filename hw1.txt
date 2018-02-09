@@ -1,0 +1,4 @@
+hw1
+
+This is the textfile for homework one lalala
+
